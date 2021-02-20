@@ -2,7 +2,7 @@
 A python project to download photos from mars via a nasa api key. 
 
 # Setup
-you need to install wget with "
+you need to install wget with:
 ```
 pip install wget
 ```
